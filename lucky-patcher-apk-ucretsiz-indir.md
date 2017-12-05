@@ -10,7 +10,7 @@ Geliştiren: NetBew<br />
 Versiyon: 6.4.6 (En son)<br />
 Son Güncelleme: 26 Kasım 2017<br />
 Boyut: 7,33 MB<br />
-(Yüklü eski bir sürüm varsa, önce onu kaldırın.)
+(Aşağıdan indirdiğiniz dosyanın uzantısı .zip olacaktır. WinRar tarzı bir programla dizine çıkartıp APK'yı kurabilirsiniz.)
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
