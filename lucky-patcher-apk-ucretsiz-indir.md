@@ -21,12 +21,14 @@ Versiyon: 6.4.6 (En son)<br />
 Son Güncelleme: 26 Kasım 2017<br />
 Boyut: 7,33 MB<br />
 (Aşağıdan indirdiğiniz dosyanın uzantısı .zip olacaktır. WinRar tarzı bir programla dizine çıkartıp APK'yı kurabilirsiniz.)
+
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 <a href="http://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
