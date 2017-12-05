@@ -21,9 +21,7 @@ Boyut: 7,33 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-     <br>
-<a href="http://www.luckypatcher.mobi/2017/01/lucky-patcher-apk.html" target="_blank">LUCKY PATCHER İNDİR & SSS</a>
-</center>
+<a href="http://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
@@ -34,7 +32,7 @@ Boyut: 7,33 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-      <br />
+      </center>
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <br />
