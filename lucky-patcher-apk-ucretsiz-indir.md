@@ -42,22 +42,17 @@ Boyut: 7,33 MB<br />
 </script>
       </center>
 <span style="color: red;">
-<b>Soru: Online Oyunlarda Nasıl Çalışır? (Clash Of Clans, Clash Royale vs)</b><br />
+<b>Soru: Online Oyunlarda Nasıl Çalışır? (Clash Of Clans, Clash Royale vs)</b></span><br />
 1- Öncelikle yandaki siteden yeni bir e-posta hesabı açın: Tıkla > <a target="_blank" href="http://www.epostakur.site">E POSTA KUR</a><br />
 2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan bize yollayın. Yazdığınız online oyunda nasıl çalışacağını göstereceğiz. E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalara yollamıyoruz!<br />
-</span>
 
 <form id="iletisim" method="POST">
  Hangi Online Oyunda Kullanacaksınız?<br />
- <input type="text" placeholder="Örnek: Clash of clans" /><br />
+ <input type="text" placeholder="Örn: Clash of clans" /><br />
  Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
- <input type="email" placeholder="Örnek: adsoyad@hotmail.com" /><br />
+ <input type="email" placeholder="Örn: adsoyad@hotmail.com" /><br />
 <button type="submit" class="btn btn-primary">Gönder</button>
 </form>
-
-  <label for="usr">İsminiz:</label>
-  <input type="text" class="form-control" id="usr"><br>
-
 
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
