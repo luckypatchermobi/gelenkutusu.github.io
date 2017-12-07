@@ -30,19 +30,6 @@ body {
   width: 100%;
 }
 
-input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], input:not([type]), textarea, select[multiple=multiple] {
-    background-color: #fff;
-    border: 1px solid #dedede;
-    border-radius: 3px;
-    box-shadow: inset 0 1px 3px rgba(0,0,0,0.06);
-    box-sizing: border-box;
-    font-family: "Arial",sans-serif;
-    font-size: 1em;
-    margin-bottom: .75em;
-    padding: .5em;
-    transition: border-color .2s ease;
-    width: 100%;
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
