@@ -57,7 +57,6 @@ Boyut: 7,33 MB<br />
 <p><strong>E-Postanızı Yazın:</strong> (e-postayı kesinlikle üstteki butona tıklayıp açmalısınız!)
 <input type="text"><div class="w3-container"><div class="w3-light-grey"><div id="myBar" class="w3-container w3-blue" style="height:24px;width:0%"></div></div>
 
-
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <br />
