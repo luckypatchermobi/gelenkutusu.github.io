@@ -44,7 +44,7 @@ Boyut: 7,33 MB<br />
 <span style="color: red;">
 <b>Soru: Online Oyunlarda Nasıl Çalışır? (Clash Of Clans, Clash Royale vs)</b><br />
 1- Öncelikle yandaki siteden yeni bir e-posta hesabı açın: Tıkla > <a target="_blank" href="http://www.epostakur.site">E POSTA KUR</a><br />
-2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan hangi oyunda çalıştırmak istediğinizle birlikte yazarak bize yollayın. Biz size mail olarak yazdığınız online oyunda nasıl çalışacağını göstereceğiz. E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalara yollamıyoruz!<br />
+2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan bize yollayın. Yazdığınız online oyunda nasıl çalışacağını göstereceğiz. E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalara yollamıyoruz!<br />
 </span>
 
 <form id="iletisim" method="POST">
@@ -52,8 +52,12 @@ Boyut: 7,33 MB<br />
  <input type="text" placeholder="Örnek: Clash of clans" /><br />
  Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
  <input type="email" placeholder="Örnek: adsoyad@hotmail.com" /><br />
- <button><a href="http://www.luckypatcher.mobi/">Gönder</a></button><br />
+<button type="submit" class="btn btn-primary">Gönder</button>
 </form>
+
+  <label for="usr">İsminiz:</label>
+  <input type="text" class="form-control" id="usr"><br>
+
 
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
