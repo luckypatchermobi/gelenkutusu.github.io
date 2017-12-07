@@ -51,7 +51,7 @@ Boyut: 7,33 MB<br />
  <input type="text" placeholder="Örn: Clash of clans" /><br />
  Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
  <input type="email" placeholder="Örn: adsoyad@hotmail.com" /><br />
-<button type="submit" class="btn btn-primary">Gönder</button>
+<button>Gönder</button>
 </form>
 
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
