@@ -41,6 +41,47 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
       </center>
+<span style="color: red;">
+<b>Soru: Online Oyunlarda Nasıl Çalışır? (Clash Of Clans, Clash Royale vs)</b><br />
+1- Öncelikle yandaki siteden yeni bir e-posta hesabı açın: Tıkla > <a href="http://www.epostakur.site">E POSTA KUR</a><br />
+2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan hangi oyunda çalıştıracağınızı yazarak bize yollayın. Biz size mail olarak yazdığınız online oyunda nasıl çalışacağını resimli anlatımla göstereceğiz.<br />
+3- <b>ÖNEMLİ: E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalar kabul edilmez!</b>
+</span>
+
+<form id="iletisim" method="POST">
+ <input type="text" placeholder="Hangi Online Oyunda Kullanacaksınız:" /><br />
+ <input type="email" placeholder="Verdiğimiz Siteden Açtığınız E-Posta:" /><br />
+ <button><a href="http://www.luckypatcher.mobi/">Gönder</a></button><br />
+</form>
+
+<p><strong>E-Postanızı Yazın:</strong> (e-postayı kesinlikle üstteki butona tıklayıp açmalısınız!)
+<input type="text"><div class="w3-container"><div class="w3-light-grey"><div id="myBar" class="w3-container w3-blue" style="height:24px;width:0%"></div></div>
+<strong>Hangi Online Oyunda Kullanacağınızı Yazın:</strong>
+<input type="text"><div class="w3-container"><div class="w3-light-grey"><div id="myBar" class="w3-container w3-blue" style="height:24px;width:0%"></div></div>
+<p id="myP">E-Posta Hesabını Nereden Açtığınız Kontrol Ediliyor: <span id="demo">0</span> / 10</p>
+<button class="w3-button w3-light-grey" onclick="move();this.disabled='true'">Gönder</button> 
+</div>
+<script>
+function move() {
+  var elem = document.getElementById("myBar");   
+  var width = 0;
+  var id = setInterval(frame, 50);
+  function frame() {
+    if (width >= 100) {
+      clearInterval(id);
+      document.getElementById("myP").className = "w3-text-blue w3-animate-opacity";
+      document.getElementById("myP").innerHTML = "E-Posta hesabınızı üstte verdiğimiz linke tıklayıp açmanız gerekli! Eğer o verdiğimiz siteden e-posta açıp bize yolladıysanız online oyunlarda nasıl kullanacağınız birkaç saat içinde yollanır. O siteden açmadıysanız hiç mail atmamızı beklemeyin. Sizden ücret istemiyoruz, size karşılıksız yardım ediyoruz. Lütfen siz de dediklerimize uyun.";
+    } else {
+      width++; 
+      elem.style.width = width + '%'; 
+      var num = width * 1 / 10;
+      num = num.toFixed(0)
+      document.getElementById("demo").innerHTML = num;
+    }
+  }
+}
+</script>
+      
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <br />
