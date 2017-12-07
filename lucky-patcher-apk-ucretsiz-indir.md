@@ -48,9 +48,9 @@ Boyut: 7,33 MB<br />
 
 <form id="iletisim" method="POST">
  Hangi Online Oyunda Kullanacaksınız?<br />
- <input type="text" placeholder="Örn: Clash of clans" /><br />
+ <input type="text" size="30" placeholder="Örn: Clash of clans" /><br />
  Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
- <input type="email" placeholder="Örn: adsoyad@hotmail.com" /><br />
+ <input type="email" size="30" placeholder="Örn: adsoyad@hotmail.com" /><br />
 <button>Gönder</button>
 </form>
 
