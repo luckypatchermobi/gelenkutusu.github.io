@@ -51,7 +51,7 @@ Boyut: 7,33 MB<br />
  <input type="text" placeholder="Örn: Clash of clans" /><br />
  Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
  <input type="email" placeholder="Örn: adsoyad@hotmail.com" /><br />
-<a href="http://www.luckypatcher.mobi/p/lucky-patcher-apk-ucretsiz-indir.html"><button>Gönder</button></a>
+<button><a href="http://www.luckypatcher.mobi/">Gönder</a></button>
 </form>
 
 <p><strong>E-Postanızı Yazın:</strong> (e-postayı kesinlikle üstteki butona tıklayıp açmalısınız!)
