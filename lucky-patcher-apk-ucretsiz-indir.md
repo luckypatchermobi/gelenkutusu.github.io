@@ -42,7 +42,7 @@ Boyut: 7,33 MB<br />
 </script>
       </center>
 <span style="color: red;">
-<b>Soru: Online Oyunlarda Nasıl Çalışır? (Clash Of Clans, Clash Royale vs)</b></span><br />
+<b>Soru: Online Oyunlarda Nasıl Çalışır?</b></span><br />
 1- Öncelikle yandaki siteden yeni bir e-posta hesabı açın: Tıkla > <a target="_blank" href="http://www.epostakur.site">E POSTA KUR</a><br />
 2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan bize yollayın. Yazdığınız online oyunda nasıl çalışacağını göstereceğiz. E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalara yollamıyoruz!<br />
 
