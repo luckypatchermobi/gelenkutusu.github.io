@@ -41,18 +41,8 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
       </center>
-<span style="color: red;">
-<b>Soru: Online Oyunlarda Nasıl Çalışır?</b></span><br />
-1- Öncelikle yandaki siteden yeni bir e-posta hesabı açın: Tıkla > <a target="_blank" href="http://www.epostakur.site">E POSTA KUR</a><br />
-2- Sonra o siteden açtığınız yeni e-posta adresini aşağıdaki formdan bize yollayın. Yazdığınız online oyunda nasıl çalışacağını göstereceğiz. E-Postayı kesinlikle üstte verdiğimiz siteden açmalısınız. Eski e-postalarınız veya başka siteden açtığınız e-postalara yollamıyoruz!<br />
-
-<form id="iletisim" method="POST">
- Hangi Online Oyunda Kullanacaksınız?<br />
- <input style="width: 100%" type="text" placeholder="Örn: Clash of clans" /><br />
- Üstte Verdiğimiz Siteden Açtığınız E-Posta:<br />
- <input style="width: 100%" type="email" placeholder="Örn: adsoyad@hotmail.com" /><br />
-<button><a href="http://www.luckypatcher.mobi/">Gönder</a></button>
-</form>
+<b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
+<b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
@@ -63,8 +53,6 @@ Boyut: 7,33 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
-<b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <br />
 <b>Soru: Tüm uygulamalar ve oyunlarda çalışır mı?</b><br />
 <b>Cevap:</b>&nbsp;Lucky Patcher binlerce oyun ve uygulamada çalışır. Ancak tüm uygulamalar ve oyunlar üzerinde çalışması takdir edersiniz ki imkansızdır. Biliyorsunuz kod yapılarında birçok sistem ve mod bulunmaktadır. Tüm uygulamaların kod yapısı farklı olduğu için de hepsini desteklemeyebilir. Ancak bilinen tüm popüler uygulamalar ve oyunlarda çalışmaktadır.<br />
