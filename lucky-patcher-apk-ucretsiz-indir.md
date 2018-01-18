@@ -44,12 +44,12 @@ Boyut: 7,33 MB<br />
 <b>Soru: Lucky Patcher Apk Güvenli midir?</b><br />
 <b>Cevap:</b> Bu uygulamanın dünya üzerinde 20 milyondan fazla kullanıcısı bulunmasına karşın, güvenlikle ilgili hiçbir şikayet almamıştır. Bu uygulama %100 güvenlidir.<br />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
+<!-- Esneking -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+     data-ad-slot="4659442398"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
