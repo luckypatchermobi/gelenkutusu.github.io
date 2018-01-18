@@ -31,12 +31,12 @@ Boyut: 7,33 MB<br />
 </center>
 <a href="http://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
+<!-- KingBaglanti -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"></ins>
+     data-ad-slot="4590880399"
+     data-ad-format="link"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
