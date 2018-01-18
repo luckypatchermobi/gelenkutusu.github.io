@@ -5,19 +5,16 @@ permalink: /2017/01/lucky-patcher-apk.html
 ---
 
 Lucky Patcher Sık Sorulan Sorulara cevaplar... Önce kısa bir girizgâh yapalım. Uygulamamızı sorunsuz kullanmanız için cihazınızı rootlamanız gerekiyor mu? Evet, çünkü cihazınızı root'larsanız yüz binlerce uygulamada sorunsuz kullanabilirsiniz. Root'lamazsanız az sayıda uygulama ve oyunda çalışır.<br />
-<br /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+<center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-      <br />
-<b>Bazı Uygulamalarda Hata Alıyorum, Neden?</b><br />
-Lucky Patcher bazı uygulamalarda ve oyunlarda; oluşturulan güvenlik duvarı sebebiyle çalışmaz. Uzmanlarımız bu konuyla ilgili geliştirmelere devam ediyor. Unutmadan, cihazınızı Kingroot uygulamasıyla rootlarsanız tüm oyunlarda çalışma oranını arttırırsınız. İndirme linki: <a href="http://www.kingrootindir.com">KingRoot İndir</a> Sadece yandaki resmi siteden indirmenizi tavsiye ediyoruz. Diğer sitelere asla güvenmeyin. Diğer bir konuya gelecek olursak: Daha önce çalışan bir APK'da, çalışmıyorsa o zaman problem var demektir. Büyük ihtimalle APK'nın "düzenlemiş olduğunuz apk sürümü" ile şu anki "yeni apk sürümü" farklı versiyonlar olduklarından dolayı sıfırdan tekrar "düzenlenmiş apk" yapmanız gerekmektedir. Kısacası düzenlediğiniz uygulamanın yeni bir sürümü var demektir, onu indirin. Sonra tekrar düzenlenmiş apk oluşturun.<br />
+</center>
+<b>Lucky Patcher Nasıl İndirilir?</b><br />
+Bu uygulamayı virüssüz ve sorunsuz olarak direk apk şeklinde indirmek istiyorsanız resmi sitemizi tercih etmelisiniz. Diğer sitelerden indirirseniz virüslü veya bozuk bir uygulama karşılaşma ihtimaliniz çok yüksek.<br />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
@@ -29,6 +26,16 @@ Lucky Patcher bazı uygulamalarda ve oyunlarda; oluşturulan güvenlik duvarı s
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <br />
+<b>Bazı Uygulamalarda Hata Alıyorum, Neden?</b><br />
+Lucky Patcher bazı uygulamalarda ve oyunlarda; oluşturulan güvenlik duvarı sebebiyle çalışmaz. Uzmanlarımız bu konuyla ilgili geliştirmelere devam ediyor. Unutmadan, cihazınızı Kingroot uygulamasıyla rootlarsanız tüm oyunlarda çalışma oranını arttırırsınız. İndirme linki: <a href="http://www.kingrootindir.com">KingRoot İndir</a> Sadece yandaki resmi siteden indirmenizi tavsiye ediyoruz. Diğer sitelere asla güvenmeyin. Diğer bir konuya gelecek olursak: Daha önce çalışan bir APK'da, çalışmıyorsa o zaman problem var demektir. Büyük ihtimalle APK'nın "düzenlemiş olduğunuz apk sürümü" ile şu anki "yeni apk sürümü" farklı versiyonlar olduklarından dolayı sıfırdan tekrar "düzenlenmiş apk" yapmanız gerekmektedir. Kısacası düzenlediğiniz uygulamanın yeni bir sürümü var demektir, onu indirin. Sonra tekrar düzenlenmiş apk oluşturun.<br />
+<center>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 <b>
 Google Chrome "Bu Dosya Zararlı Olabilir" Diyor, Neden?</b><br />
 Chrome bütün .APK uzantılı dosyalar için zararlı diyor. İsterseniz deneyebilirsiniz. Lucky Patcher tamamiyle güvenlidir. Dünya üzerinde 20 milyondan fazla kişi tarafından kullanılmaktadır.<br />
