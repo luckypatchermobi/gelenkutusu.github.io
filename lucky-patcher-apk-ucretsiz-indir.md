@@ -20,7 +20,6 @@ Geliştiren: NetBew<br />
 Versiyon: 7.0.1 (En son)<br />
 Son Güncelleme: 10 Aralık 2017<br />
 Boyut: 7,33 MB<br />
-(Aşağıdan indirdiğiniz dosyanın uzantısı .zip olacaktır. WinRar tarzı bir programla dizine çıkartıp APK'yı kurabilirsiniz.)
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
@@ -29,7 +28,7 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="http://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İndir</a>
+<a href="https://www.luckypatcher.mobi/2017/01/lucky-patcher-apk.html" target="_blank">Lucky Patcher Apk SSS</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
