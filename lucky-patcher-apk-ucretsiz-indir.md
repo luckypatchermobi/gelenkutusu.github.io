@@ -28,7 +28,7 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="https://www.luckypatcher.mobi/2017/01/lucky-patcher-apk.html" target="_blank">Lucky Patcher Apk SSS</a>
+<a href="http://www.virustemizlemeprogrami.gen.tr" target="_blank">İNDİR</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
