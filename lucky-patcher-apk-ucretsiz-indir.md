@@ -20,6 +20,7 @@ Geliştiren: NetBew<br />
 Versiyon: 7.0.1 (En son)<br />
 Son Güncelleme: 10 Aralık 2017<br />
 Boyut: 7,33 MB<br />
+Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip olarak sizlerle paylaşmak zorundayız. WinRar gibi bir programla rar'dan çıkarıp direkt APK olarak kullanabilirsiniz. <br />
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
@@ -28,7 +29,7 @@ Boyut: 7,33 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="http://www.virustemizlemeprogrami.gen.tr" target="_blank">İNDİR</a>
+<a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
