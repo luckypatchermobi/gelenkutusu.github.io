@@ -21,6 +21,7 @@ Versiyon: 7.0.1 (En son)<br />
 Son Güncelleme: 10 Aralık 2017<br />
 Boyut: 7,33 MB<br />
 Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip olarak sizlerle paylaşmak zorundayız. WinRar gibi bir programla rar'dan çıkarıp direkt APK olarak kullanabilirsiniz. <br />
+     <span style="color: blue;">Whatsapp profiline bakanları görmek için indir: <a target="_blank" href="http://plus.apkindir.site/">Whatsapp Plus</a></span><br>
 <center>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
