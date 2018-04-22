@@ -30,7 +30,8 @@ Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip ola
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR</a>
+<a href="http://www.virustemizlemeprogrami.gen.tr" target="_blank">İNDİR (.apk olarak bu sitede var)</a><br>
+<a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR (.zip)</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
