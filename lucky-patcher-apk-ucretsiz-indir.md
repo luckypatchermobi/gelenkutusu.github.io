@@ -6,12 +6,12 @@ permalink: /p/lucky-patcher-apk-ucretsiz-indir.html
 
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
+<!-- Esneking -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+     data-ad-slot="4659442398"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -23,9 +23,12 @@ Boyut: 7,33 MB<br />
 Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip olarak sizlerle paylaşmak zorundayız. WinRar gibi bir programla rar'dan çıkarıp direkt APK olarak kullanabilirsiniz. <br />
      <span style="color: blue;">Whatsapp profiline bakanları görmek için indir: <a target="_blank" href="http://plus.apkindir.site/">Whatsapp Plus</a></span><br>
 <center>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200 90 -->
-<ins class="adsbygoogle" data-ad-client="ca-pub-7942429830883405" data-ad-slot="4977168797" style="display: inline-block; height: 90px; width: 200px;"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Baglanti20090 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -33,12 +36,11 @@ Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip ola
 <a href="http://www.virustemizlemeprogrami.gen.tr" target="_blank">İNDİR (.apk olarak bu sitede var)</a><br>
 <a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR (.zip)</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
+<!-- 336 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
+     data-ad-slot="9585734309"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
