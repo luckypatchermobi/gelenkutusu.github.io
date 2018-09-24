@@ -33,7 +33,7 @@ Kötü amaçlı yazılım olarak algılanmasın diye .apk olarak değil .zip ola
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR</a>
+<a href="https://www.luckypatcher.mobi/LuckyPatcherMobi_Official_v6.8.7.zip" target="_blank">İNDİR</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
